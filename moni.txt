@@ -2,6 +2,23 @@
 
 
 changed here.
+<<<<<<< HEAD
 
 
 i write this line at 2017.3.30
+=======
+asd
+adsa
+adsaa
+daada
+daadaa
+sd
+it will conflicated!!
+
+sa
+d
+a
+a
+da
+das
+>>>>>>> master
